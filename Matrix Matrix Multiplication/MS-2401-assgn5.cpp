@@ -1,5 +1,6 @@
 #include<iostream>
 #include<mpi.h>
+
 #include<vector>
 #include<fstream>
 using namespace std;
